@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Hack_Slash.slnx"
+    "dotnet.defaultSolution": "Unity2D_Action.slnx"
 }
