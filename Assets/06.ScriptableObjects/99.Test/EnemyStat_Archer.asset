@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca35917de980534e8ba21d5dc82d669, type: 3}
+  m_Name: EnemyStat_Archer
+  m_EditorClassIdentifier: 
+  _maxHealth: 60000
+  _moveSpeed: 4
+  _minIdleTime: 1
+  _maxIdleTime: 3
+  _minMoveTime: 0.5
+  _maxMoveTime: 2
+  _playerCheckDistance: 7
+  _attackDistance: 9
+  _attackCoolTime: 3
+  _attackInfo: {fileID: 11400000, guid: c453deb98a6e23d428cd1cb1287012eb, type: 2}

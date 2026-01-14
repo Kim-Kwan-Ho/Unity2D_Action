@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623fc0c4caae619449fe4d46e03a2ee2, type: 3}
+  m_Name: DamageTextUI
+  m_EditorClassIdentifier: 
+  _lifeTime: 1
+  _moveSpeed: 0.5
+  _criticalSizeRatio: 1.5
+  _pHitNormalColor: {r: 1, g: 0.45882353, b: 0.45882353, a: 1}
+  _pHitCriticalNormalColor: {r: 1, g: 0, b: 0, a: 1}
+  _eHitNormalColor: {r: 1, g: 0.9882353, b: 0.7294118, a: 1}
+  _eHitCriticalNormalColor: {r: 1, g: 0.7734498, b: 0, a: 1}
+  _eHitSkillColor: {r: 0.1745283, g: 0.6620082, b: 1, a: 1}
+  _eHitCriticalSkillColor: {r: 0, g: 0.12585497, b: 1, a: 1}

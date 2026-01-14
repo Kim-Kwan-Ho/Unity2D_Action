@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e16d5bc2d6ef045b9085714a1d76f2, type: 3}
+  m_Name: FlashStrikeSkill
+  m_EditorClassIdentifier: 
+  _coolTime: 8
+  _afterInvincibleTime: 0.5
+  _attackInfo: {fileID: 11400000, guid: 230fc49353fc77845a80140ece784071, type: 2}
+  _freezeTime: 0.6
+  _maxTargetCount: 10
+  _range: 10
+  _wallOffSetDist: 0.33
+  _wallLayer:
+    serializedVersion: 2
+    m_Bits: 1024
+  _targetLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  _sfxCameraVelocity: {x: 0.2, y: 0.2, z: 0.2}

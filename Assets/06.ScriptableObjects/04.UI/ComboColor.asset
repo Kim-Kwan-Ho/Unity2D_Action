@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3538076005f6d634e947a0c8265ceaef, type: 3}
+  m_Name: ComboColor
+  m_EditorClassIdentifier: 
+  _comboColor:
+  - ComboCount: 0
+    Color: {r: 1, g: 1, b: 1, a: 1}
+  - ComboCount: 11
+    Color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - ComboCount: 31
+    Color: {r: 1, g: 0.5, b: 0, a: 1}
+  - ComboCount: 51
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  _addComboColor:
+  - ComboCount: 0
+    Color: {r: 1, g: 1, b: 1, a: 1}
+  - ComboCount: 2
+    Color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - ComboCount: 4
+    Color: {r: 1, g: 0.5, b: 0, a: 1}
+  - ComboCount: 6
+    Color: {r: 1, g: 0, b: 0, a: 1}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bd93b1cf8081334d8aabbe04b48eac2, type: 3}
+  m_Name: AttackInfo_Archer
+  m_EditorClassIdentifier: 
+  _attackType: 1
+  _damageType: 0
+  _minDamage: 12
+  _maxDamage: 17
+  _criticalChance: 10
+  _criticalRatio: 1.5
+  _knockbackForce: {x: 4, y: 0}
+  _knockbackDuration: 0.1
+  _stunDuration: 0

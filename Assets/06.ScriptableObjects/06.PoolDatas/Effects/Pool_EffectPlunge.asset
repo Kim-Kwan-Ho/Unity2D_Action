@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c1f5697bd5d5f468b653e5bd7b9821, type: 3}
+  m_Name: Pool_EffectPlunge
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 100008, guid: 28990c5d004da664ea7a951d690fe3dc, type: 3}
+  _initialSize: 2
+  _maxSize: -1

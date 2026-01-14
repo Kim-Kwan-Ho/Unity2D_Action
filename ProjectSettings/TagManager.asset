@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - CameraConfiner
+  - Wall&Ground
+  - Enemy
+  - Player
+  - EnemyProjectile
+  - Untargetable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4011922669
+    locked: 0
+  - name: BackEffect
+    uniqueID: 2998264633
+    locked: 0
+  - name: Enemy
+    uniqueID: 3601123763
+    locked: 0
+  - name: EnemyHP
+    uniqueID: 1242555033
+    locked: 0
+  - name: EnemyEffect
+    uniqueID: 4056505909
+    locked: 0
+  - name: EnemyProjectile
+    uniqueID: 2751385491
+    locked: 0
+  - name: Player
+    uniqueID: 2331202543
+    locked: 0
+  - name: Effect
+    uniqueID: 2558630249
+    locked: 0
